@@ -9,7 +9,7 @@ The goal of this task is to **use Jenkins to build a simple Java application usi
 
 | 🛠️ Tool | ⚙️ Version | 💡 Purpose |
 |----------|-------------|-------------|
-| ☕ **Java JDK** | 8 or 11 | Compile and run Java code |
+| ☕ **Java JDK** | 21 | Compile and run Java code |
 | 🧩 **Apache Maven** | 3.8+ | Build automation tool |
 | 🧱 **Jenkins** | LTS | Continuous Integration server |
 | 🐙 **Git & GitHub** | Latest | Source code management |
